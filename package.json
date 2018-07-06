@@ -76,7 +76,7 @@
     "eslint-plugin-relay": "^0.0.24",
     "eslint-plugin-yarn-internal": "file:scripts/eslint-rules",
     "execa": "^0.10.0",
-    "flow-bin": "^0.66.0",
+    "flow-bin": "^0.76.0",
     "git-release-notes": "^3.0.0",
     "gulp": "^3.9.0",
     "gulp-babel": "^7.0.0",
